@@ -237,7 +237,7 @@ pytest==8.2.0
 python-dateutil==2.8.2
 python-dotenv==1.0.1
 python-multipart==0.0.9
-pytorch-triton==3.0.0+989adb9a29
+# pytorch-triton==3.0.0+989adb9a29
 pytz==2024.1
 pyzmq==26.0.3
 pyzstd==0.15.10
